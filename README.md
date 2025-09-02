@@ -1,0 +1,2 @@
+"# wsStaticWeb" 
+"# wsStaticWebsite" 
